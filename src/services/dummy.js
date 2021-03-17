@@ -2,7 +2,7 @@ export const dummyProducts = [
   {
     id: 1,
     name: "1 Slot Mega Event",
-    price: 14,
+    price: 0.1,
     photo: "/img/1.png",
   },
   {

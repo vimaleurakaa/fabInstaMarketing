@@ -2,6 +2,7 @@
   "name": "fab_insta_marketing",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://harshithmb.github.io/fab-insta/",
   "dependencies": {
     "@stripe/react-stripe-js": "^1.4.0",
     "@stripe/stripe-js": "^1.13.1",
@@ -14,13 +15,16 @@
     "react-helmet-async": "^1.0.5",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
-    "react-stripe-elements": "^6.1.2"
+    "react-stripe-elements": "^6.1.2",
+    "stripe": "^8.138.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -38,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1"
   }
 }
