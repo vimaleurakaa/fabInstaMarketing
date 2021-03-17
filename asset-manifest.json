@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/e-commerce/static/css/main.4560ea98.chunk.css",
-    "main.js": "/e-commerce/static/js/main.0b87c9fe.chunk.js",
-    "main.js.map": "/e-commerce/static/js/main.0b87c9fe.chunk.js.map",
-    "runtime-main.js": "/e-commerce/static/js/runtime-main.f3af71a0.js",
-    "runtime-main.js.map": "/e-commerce/static/js/runtime-main.f3af71a0.js.map",
-    "static/css/2.fc3ea6fc.chunk.css": "/e-commerce/static/css/2.fc3ea6fc.chunk.css",
-    "static/js/2.2811f79c.chunk.js": "/e-commerce/static/js/2.2811f79c.chunk.js",
-    "static/js/2.2811f79c.chunk.js.map": "/e-commerce/static/js/2.2811f79c.chunk.js.map",
-    "index.html": "/e-commerce/index.html",
-    "precache-manifest.8e4b67e38d34ef6dc9dc2f644f2c40bb.js": "/e-commerce/precache-manifest.8e4b67e38d34ef6dc9dc2f644f2c40bb.js",
-    "service-worker.js": "/e-commerce/service-worker.js",
-    "static/css/2.fc3ea6fc.chunk.css.map": "/e-commerce/static/css/2.fc3ea6fc.chunk.css.map",
-    "static/css/main.4560ea98.chunk.css.map": "/e-commerce/static/css/main.4560ea98.chunk.css.map",
-    "static/js/2.2811f79c.chunk.js.LICENSE.txt": "/e-commerce/static/js/2.2811f79c.chunk.js.LICENSE.txt"
+    "main.css": "/fab-insta/static/css/main.4560ea98.chunk.css",
+    "main.js": "/fab-insta/static/js/main.5bb47507.chunk.js",
+    "main.js.map": "/fab-insta/static/js/main.5bb47507.chunk.js.map",
+    "runtime-main.js": "/fab-insta/static/js/runtime-main.08d93c81.js",
+    "runtime-main.js.map": "/fab-insta/static/js/runtime-main.08d93c81.js.map",
+    "static/css/2.fc3ea6fc.chunk.css": "/fab-insta/static/css/2.fc3ea6fc.chunk.css",
+    "static/js/2.2811f79c.chunk.js": "/fab-insta/static/js/2.2811f79c.chunk.js",
+    "static/js/2.2811f79c.chunk.js.map": "/fab-insta/static/js/2.2811f79c.chunk.js.map",
+    "index.html": "/fab-insta/index.html",
+    "precache-manifest.e9b99ca606899eb59a6e1d87f133738c.js": "/fab-insta/precache-manifest.e9b99ca606899eb59a6e1d87f133738c.js",
+    "service-worker.js": "/fab-insta/service-worker.js",
+    "static/css/2.fc3ea6fc.chunk.css.map": "/fab-insta/static/css/2.fc3ea6fc.chunk.css.map",
+    "static/css/main.4560ea98.chunk.css.map": "/fab-insta/static/css/main.4560ea98.chunk.css.map",
+    "static/js/2.2811f79c.chunk.js.LICENSE.txt": "/fab-insta/static/js/2.2811f79c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3af71a0.js",
+    "static/js/runtime-main.08d93c81.js",
     "static/css/2.fc3ea6fc.chunk.css",
     "static/js/2.2811f79c.chunk.js",
     "static/css/main.4560ea98.chunk.css",
-    "static/js/main.0b87c9fe.chunk.js"
+    "static/js/main.5bb47507.chunk.js"
   ]
 }
